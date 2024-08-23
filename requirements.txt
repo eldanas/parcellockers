@@ -1,0 +1,8 @@
+numpy~=1.26.4
+scipy~=1.14.0
+pandas~=2.2.2
+pyproj~=3.6.1
+matplotlib~=3.9.0
+gurobipy~=11.0.2
+seaborn~=0.13.2
+rpy2~=3.5.16
